@@ -1,0 +1,14 @@
+body {
+    background-image: url(https://images.freeimages.com/images/premium/previews/1570/15700108-the-woman-buys-a-water-bottle-in-shop-dof.jpg);
+    background-size:cover;
+    background-color:rgb(255, 254, 196)
+  }
+  h1 {
+    color: rgb(255, 0, 157);
+    text-align: center;
+  }
+  p {
+    color:greenyellow;
+    font-family: verdana;
+    font-size: 20px;
+  }

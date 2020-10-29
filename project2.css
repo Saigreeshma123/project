@@ -1,0 +1,14 @@
+body {
+    background-image: url(https://www.vicharoo.com/wp-content/uploads/2020/02/Water-Bottle-1688.jpg);
+    background-size:cover;
+    background-color:rgb(255, 254, 196)
+  }
+  h1 {
+    color:blue;
+    text-align: center;
+  }
+  p {
+    color:brown;
+    font-family: verdana;
+    font-size: 20px;
+  }
